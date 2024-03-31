@@ -42,4 +42,4 @@ Skills & Certifications
 •	Technical Skills: Microsoft Office, Excel (Advanced), REDCap, Tableau, MySQL, BigQuery
 •	Programming Languages: R, Power BI, Python, SQL, SPSS, SAS
 •	Other Skills: Data Collection / Extraction / Visualization / Management, Regression Analysis, Descriptive Analytics
-![image](https://github.com/lord-voldemort182/lord-voldemort182.github.io/assets/121688106/fe595198-83b1-414c-aa22-02ebd1b49723)
+
