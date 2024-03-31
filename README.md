@@ -1,7 +1,5 @@
 # Hi!
 
-![photo](assets/Screen Shot 2022-09-23 at 13.43.18.png)
-
 Thanks for checking out my site. This is where I host my resume and some of my past projects to showcase my skills and knowledge.
 
 ### About me
@@ -20,5 +18,10 @@ A Power BI report analyzing survey data distributed to attendee's of our firefig
 
 A analysis of on-duty firefighter deaths to better understand occupational risks and to issues future health/safety reccomendations, done in R:
 - [firefighter-deaths (1).pdf](https://github.com/lord-voldemort182/lord-voldemort182.github.io/files/14817137/firefighter-deaths.1.pdf)
+
+
+![photo](assets/Screen Shot 2022-09-23 at 13.43.18.png)
+
+
 
 
