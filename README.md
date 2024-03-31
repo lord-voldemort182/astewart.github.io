@@ -22,6 +22,7 @@ A analysis of on-duty firefighter deaths to better understand occupational risks
 
 ![photo](assets/Screen Shot 2022-09-23 at 13.43.18.png)
 
+<img width="380" alt="Screen Shot 2022-09-23 at 13 43 18" src="https://github.com/lord-voldemort182/lord-voldemort182.github.io/assets/121688106/ab08eac9-625b-4945-aabc-b264d847f5f0">
 
 
 
