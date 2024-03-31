@@ -1,5 +1,7 @@
 # Hi!
 
+![photo](assets/Screen Shot 2022-09-23 at 13.43.18.png)
+
 Thanks for checking out my site. This is where I host my resume and some of my past projects to showcase my skills and knowledge.
 
 ### About me
