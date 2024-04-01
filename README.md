@@ -20,7 +20,7 @@ A analysis of on-duty firefighter deaths to better understand occupational risks
 - [firefighter-deaths (1).pdf](https://github.com/lord-voldemort182/lord-voldemort182.github.io/files/14817137/firefighter-deaths.1.pdf)
 
 
-![photo](/assets/img/Screen Shot 2022-09-23 at 13.43.18.png)
+
 
 
 
